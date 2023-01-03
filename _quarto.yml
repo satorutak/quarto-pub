@@ -7,8 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: tes2.ipynb
-        text: tes2
+      - href: tes3.qmd
+        text: tes3
+      - href: loadmap.qmd
+        text: Loadmap 
 
 format:
   html:
