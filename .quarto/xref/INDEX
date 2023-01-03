@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "0e0d3004"
+  },
+  "index.qmd": {
+    "index.html": "5ef72de6"
+  },
+  "tes-jupyter.qmd": {
+    "tes-jupyter.html": "27821830"
+  },
+  "Untitled-1.ipynb": {
+    "Untitled-1.html": "7b4100eb"
+  },
+  "tes-jupyter.ipynb": {
+    "tes-jupyter.html": "be793371"
+  },
+  "tes.ipynb": {
+    "tes.html": "ac835133"
+  },
+  "tes2.ipynb": {
+    "tes2.html": "e247e0dd"
+  },
+  "tes3.qmd": {
+    "tes3.html": "41dbc7ee"
+  }
+}

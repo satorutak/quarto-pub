@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: d6747ba5-b5af-41c6-afff-8c81d188e577
+      url: 'https://quartopub.com/sites/satoru/wakatta'
