@@ -3,4 +3,4 @@ title: "わかった"
 ---
 
 This is a Quarto website.
-
+https://satoru.quarto.pub/wakatta/
