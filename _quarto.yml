@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Wakatta!"
+  title: "Wakatta"
   navbar:
     left:
       - href: index.qmd
