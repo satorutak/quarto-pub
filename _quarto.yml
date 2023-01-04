@@ -11,7 +11,8 @@ website:
         text: tes3
       - href: loadmap.qmd
         text: Loadmap 
-
+      - href: tes-obs.qmd
+        text: Observals101 
 format:
   html:
     theme: cosmo
