@@ -13,6 +13,8 @@ website:
         text: Loadmap 
       - href: tes-obs.qmd
         text: Observals101 
+      - href: listing.qmd
+        text: Pages
 format:
   html:
     theme: cosmo
