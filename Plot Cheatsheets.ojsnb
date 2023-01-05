@@ -1,0 +1,651 @@
+{
+    "id": "ba7abc71f4fd14d8",
+    "slug": "plot-cheatsheets",
+    "trashed": false,
+    "description": "Observable Plot is a robust JavaScript library to help you quickly visualize tabular data. These cheatsheets provide an interactive reference and printable PDF to explore each of the foundational concepts of the library: Marks, Scales, Transforms, Layout, and Colors.",
+    "likes": 198,
+    "publish_level": "live",
+    "forks": 4,
+    "fork_of": null,
+    "has_importers": true,
+    "update_time": "2022-12-20T19:10:29.884Z",
+    "first_public_version": 548,
+    "paused_version": null,
+    "publish_time": "2022-12-20T19:11:08.772Z",
+    "publish_version": 548,
+    "latest_version": 548,
+    "thumbnail": "06e5da8ad481f156a5582de29308e423758c38758658b5cd5358fe9b8cffd54d",
+    "default_thumbnail": "c711acdb2b3ebb0efd3a0b84c8b3a2cd818983a0fd1cc36a574e981f75a456ee",
+    "roles": [],
+    "sharing": null,
+    "owner": {
+        "id": "f35c755083683fe5",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+        "login": "observablehq",
+        "name": "Observable",
+        "bio": "Use data to think, together.",
+        "home_url": "https://observablehq.com",
+        "type": "team",
+        "tier": "pro_enterprise",
+        "following_count": 0,
+        "followers_count": 0,
+        "following": false
+    },
+    "creator": {
+        "id": "49edaef976412aba",
+        "github_login": "mkfreeman",
+        "avatar_url": "https://avatars.observableusercontent.com/avatar/c41d269cc7b9f5bea7adf2ca109c2b20486a5af02a59df0b162b2fbb33b44a17",
+        "login": "mkfreeman",
+        "name": "Mike Freeman",
+        "bio": "Data visualization developer at Observable: working to make visualization more accessible, equitable, and impactful. He/him.",
+        "home_url": "http://mfviz.com",
+        "tier": "pro",
+        "following_count": 0,
+        "followers_count": 0,
+        "following": false
+    },
+    "authors": [
+        {
+            "id": "49edaef976412aba",
+            "avatar_url": "https://avatars.observableusercontent.com/avatar/c41d269cc7b9f5bea7adf2ca109c2b20486a5af02a59df0b162b2fbb33b44a17",
+            "name": "Mike Freeman",
+            "login": "mkfreeman",
+            "bio": "Data visualization developer at Observable: working to make visualization more accessible, equitable, and impactful. He/him.",
+            "home_url": "http://mfviz.com",
+            "github_login": "mkfreeman",
+            "tier": "pro",
+            "approved": true,
+            "description": "",
+            "following_count": 0,
+            "followers_count": 0,
+            "following": false
+        }
+    ],
+    "collections": [
+        {
+            "id": "f966dd3c157d692d",
+            "type": "public",
+            "slug": "staff-pick-plot-cheatsheets/2",
+            "title": "Staff pick: Plot Cheatsheets",
+            "description": "Plot Cheatsheets is an interactive overview of the foundational concepts of the Observable Plot library including: Marks, Scales, Transforms, Layout & Colors.",
+            "update_time": "2022-01-25T00:13:41.341Z",
+            "pinned": false,
+            "ordered": false,
+            "custom_thumbnail": null,
+            "default_thumbnail": "06e5da8ad481f156a5582de29308e423758c38758658b5cd5358fe9b8cffd54d",
+            "thumbnail": "06e5da8ad481f156a5582de29308e423758c38758658b5cd5358fe9b8cffd54d",
+            "listing_count": 1,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "d5ac08ebaaeb6a53",
+            "type": "public",
+            "slug": "plot-cheatsheets",
+            "title": "Plot Cheatsheets",
+            "description": "Interactive notebooks to learn the Observable Plot library",
+            "update_time": "2022-01-24T19:39:56.633Z",
+            "pinned": false,
+            "ordered": true,
+            "custom_thumbnail": null,
+            "default_thumbnail": "06e5da8ad481f156a5582de29308e423758c38758658b5cd5358fe9b8cffd54d",
+            "thumbnail": "06e5da8ad481f156a5582de29308e423758c38758658b5cd5358fe9b8cffd54d",
+            "listing_count": 6,
+            "parent_collection_count": 1,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "6ad523ac4dcb4b45",
+            "type": "public",
+            "slug": "instagram-shares",
+            "title": "Observable's Instagram Shares",
+            "description": "A collection of Observable Canvases that we share on Instagram.   https://www.instagram.com/observablehq/",
+            "update_time": "2021-11-18T19:06:11.216Z",
+            "pinned": false,
+            "ordered": false,
+            "custom_thumbnail": null,
+            "default_thumbnail": "74d2227190ace84e393c990c47430aac47c760dd024fd7a0f8ba81f8d3d6cdd5",
+            "thumbnail": "74d2227190ace84e393c990c47430aac47c760dd024fd7a0f8ba81f8d3d6cdd5",
+            "listing_count": 126,
+            "parent_collection_count": 0,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "01e1972879c83ae3",
+            "type": "public",
+            "slug": "observable-blog",
+            "title": "Observable Blog",
+            "description": "",
+            "update_time": "2021-04-09T03:24:10.059Z",
+            "pinned": false,
+            "ordered": false,
+            "custom_thumbnail": null,
+            "default_thumbnail": "5cca673c6f9970391675c9f43574e291480a5379a0910e379b1a382640ab4460",
+            "thumbnail": "5cca673c6f9970391675c9f43574e291480a5379a0910e379b1a382640ab4460",
+            "listing_count": 65,
+            "parent_collection_count": 0,
+            "owner": {
+                "id": "f35c755083683fe5",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e",
+                "login": "observablehq",
+                "name": "Observable",
+                "bio": "Use data to think, together.",
+                "home_url": "https://observablehq.com",
+                "type": "team",
+                "tier": "pro_enterprise",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        }
+    ],
+    "files": [],
+    "comments": [
+        {
+            "id": "0a5fb7912eb2074b",
+            "content": "Links to all the PDFs are broken as it looks like it has been consolidated to a single PDF now.",
+            "node_id": 86,
+            "create_time": "2022-03-07T10:26:45.634Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "dca446366de62738",
+                "github_login": "harkanwals",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/44131a4aa5e223b7a491db5ed1d5e9eb9553279393b92612b4e3b74f560d8aa4",
+                "login": "harkanwalsnz",
+                "name": "Harkanwal",
+                "bio": "I build things with data.",
+                "home_url": "https://www.linkedin.com/in/harkanwalsnz/",
+                "tier": "public",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "10d793f129345615",
+            "content": "Thanks for pointing that out, we've added the single-PDFs back into the repo!",
+            "node_id": 86,
+            "create_time": "2022-03-08T13:49:51.459Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "49edaef976412aba",
+                "github_login": "mkfreeman",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/c41d269cc7b9f5bea7adf2ca109c2b20486a5af02a59df0b162b2fbb33b44a17",
+                "login": "mkfreeman",
+                "name": "Mike Freeman",
+                "bio": "Data visualization developer at Observable: working to make visualization more accessible, equitable, and impactful. He/him.",
+                "home_url": "http://mfviz.com",
+                "tier": "pro",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "2029af0a0d2d1439",
+            "content": "FYI, I opened an issue i=on GitHub...the data table in the pdf is incorrect (and could mislead early adopters)",
+            "node_id": 232,
+            "create_time": "2022-01-28T14:47:20.926Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "c2f17e4031105178",
+                "github_login": "espinielli",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/2bf5259d0c49a57cec6acc725062bdc41374a518de8772a2a051315f6be64567",
+                "login": "espinielli",
+                "name": "Enrico Spinielli",
+                "bio": "Interested in dataviz and looking forward to a world where human brains are freed from being occupied with boring, repetitive, manual, click-copy-paste tasks.",
+                "home_url": "http://enrico.spinielli.net/",
+                "tier": "public",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "a88e16c403a22efc",
+            "content": "https://github.com/observablehq/plot-cheatsheets/issues/1",
+            "node_id": 232,
+            "create_time": "2022-01-28T15:40:45.691Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "c2f17e4031105178",
+                "github_login": "espinielli",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/2bf5259d0c49a57cec6acc725062bdc41374a518de8772a2a051315f6be64567",
+                "login": "espinielli",
+                "name": "Enrico Spinielli",
+                "bio": "Interested in dataviz and looking forward to a world where human brains are freed from being occupied with boring, repetitive, manual, click-copy-paste tasks.",
+                "home_url": "http://enrico.spinielli.net/",
+                "tier": "public",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        },
+        {
+            "id": "ec23391c4fd1d79f",
+            "content": "Thanks! I found it :). Impressive attention to detail! Our designer will tweak that and we'll get it updated later today. Appreciate it!",
+            "node_id": 232,
+            "create_time": "2022-01-28T15:44:43.527Z",
+            "update_time": null,
+            "resolved": true,
+            "user": {
+                "id": "49edaef976412aba",
+                "github_login": "mkfreeman",
+                "avatar_url": "https://avatars.observableusercontent.com/avatar/c41d269cc7b9f5bea7adf2ca109c2b20486a5af02a59df0b162b2fbb33b44a17",
+                "login": "mkfreeman",
+                "name": "Mike Freeman",
+                "bio": "Data visualization developer at Observable: working to make visualization more accessible, equitable, and impactful. He/him.",
+                "home_url": "http://mfviz.com",
+                "tier": "pro",
+                "following_count": 0,
+                "followers_count": 0,
+                "following": false
+            }
+        }
+    ],
+    "commenting_lock": null,
+    "suggestion_from": null,
+    "suggestions_to": [],
+    "version": 548,
+    "title": "Plot Cheatsheets",
+    "license": null,
+    "copyright": "",
+    "nodes": [
+        {
+            "id": 0,
+            "value": "# Plot Cheatsheets\n## An interactive overview and reference for Observable Plot",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 338,
+            "value": "image1 = deck()",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 500,
+            "value": "download1 = download({label: \"Download the cheatsheets PDF\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 7,
+            "value": "[Observable Plot](https://observablehq.com/@observablehq/plot?collection=@observablehq/plot) is a robust JavaScript library to help you quickly visualize tabular data. These cheatsheets provide an interactive reference and printable PDF to explore each of the foundational concepts of the library: [Marks](https://observablehq.com/@observablehq/plot-marks-cheatsheet?collection=@observablehq/plot-cheatsheets), [Scales](https://observablehq.com/@observablehq/plot-scales-cheatsheet?collection=@observablehq/plot-cheatsheets), [Transforms](https://observablehq.com/@observablehq/plot-transforms-cheatsheet?collection=@observablehq/plot-cheatsheets), [Layout](https://observablehq.com/@observablehq/plot-layouts-cheatsheet?collection=@observablehq/plot-cheatsheets), and [Colors](https://observablehq.com/@observablehq/plot-colors-cheatsheet?collection=@observablehq/plot-cheatsheets).",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 63,
+            "value": "toc({headers: \"h2\", hideStartingFrom: \"Appendix\", skip: \"An interactive overview and reference for Observable Plot\"})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 71,
+            "value": "---\n## Marks\n_Geometric symbols that represent your data_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": "marks"
+        },
+        {
+            "id": 232,
+            "value": "intro(marksPng, marksIntro(), {\n  src: \"https://github.com/observablehq/plot-cheatsheets/raw/main/marks.pdf\",\n  label: \"Download the Marks PDF\",\n  notebookUrl:\n    \"https://observablehq.com/@observablehq/plot-marks-cheatsheet?collection=@observablehq/plot-cheatsheets\"\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 139,
+            "value": "marksExample()",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 143,
+            "value": "_For more interactive examples, see the [Marks cheatsheet](https://observablehq.com/@observablehq/plot-marks-cheatsheet?collection=@observablehq/plot-cheatsheets)._",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 82,
+            "value": "---\n## Scales\n_Project from data values to pixel values_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 86,
+            "value": "intro(scalesPng, scalesIntro(), {\n  src: \"https://github.com/observablehq/plot-cheatsheets/raw/main/scales.pdf\",\n  label: \"Download the Scales PDF\",\n  notebookUrl:\n    \"https://observablehq.com/@observablehq/plot-scales-cheatsheet?collection=@observablehq/plot-cheatsheets\"\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 134,
+            "value": "scalesExample",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 148,
+            "value": "_For more interactive examples, see the [Scales cheatsheet](https://observablehq.com/@observablehq/plot-scales-cheatsheet?collection=@observablehq/plot-cheatsheets)._",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 91,
+            "value": "---\n## Transforms\n_Augment your data for plotting_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 95,
+            "value": "intro(transformsPng, transformsIntro(), {\n  src: \"https://github.com/observablehq/plot-cheatsheets/raw/main/transforms.pdf\",\n  label: \"Download the Transforms PDF\",\n  notebookUrl:\n    \"https://observablehq.com/@observablehq/plot-transforms-cheatsheet?collection=@observablehq/plot-cheatsheets\"\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 172,
+            "value": "createDemo(histogram)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 153,
+            "value": "_For more interactive examples, see the [Transforms cheatsheet](https://observablehq.com/@observablehq/plot-transforms-cheatsheet?collection=@observablehq/plot-cheatsheets)._",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 101,
+            "value": "---\n## Layouts\n_Adjust the sizing and spacing of your plots_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 105,
+            "value": "intro(layoutsPng, layoutsIntro(), {\n  src: \"https://github.com/observablehq/plot-cheatsheets/raw/main/layouts.pdf\",\n    label: \"Download the Layouts PDF\",\n  notebookUrl:\n    \"https://observablehq.com/@observablehq/plot-layouts-cheatsheet?collection=@observablehq/plot-cheatsheets\"\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 112,
+            "value": "layoutsExample",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 160,
+            "value": "_For more interactive examples, see the [Layouts cheatsheet](https://observablehq.com/@observablehq/plot-layouts-cheatsheet?collection=@observablehq/plot-cheatsheets)._",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 119,
+            "value": "---\n## Colors\n_Set the colors of your marks_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 127,
+            "value": "intro(colorsPng, colorsIntro(), {\n  src: \"https://github.com/observablehq/plot-cheatsheets/raw/main/colors.pdf\",\n  label: \"Download the Colors PDF\",\n  notebookUrl:\n    \"https://observablehq.com/@observablehq/plot-colors-cheatsheet?collection=@observablehq/plot-cheatsheets\"\n})",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 130,
+            "value": "createDemo(quantitative)",
+            "pinned": false,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 166,
+            "value": "_For more interactive examples, see the [Colors cheatsheet](https://observablehq.com/@observablehq/plot-colors-cheatsheet?collection=@observablehq/plot-cheatsheets)._",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 52,
+            "value": "---\n## Appendix",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 411,
+            "value": "_Last updated for Plot version 0.4.0_",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 390,
+            "value": "### Imports",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 57,
+            "value": "import {\n  createDemo,\n  intro,\n  controlWidth,\n  dataDescription,\n  welcomeBox,\n  inputStyles,\n  plotWidth,\n  download, \n  deck,\n  marksPng,\n  scalesPng,\n  layoutsPng,\n  transformsPng,\n  colorsPng,\n} with { evalCodeStr } from \"@observablehq/cheatsheet-utilities\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 75,
+            "value": "import {introParagraph as marksIntro, marksExample, data} from \"@observablehq/plot-marks-cheatsheet\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 60,
+            "value": "import {toc} from \"@nebrius/indented-toc\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 80,
+            "value": "import {introParagraph as scalesIntro, scalesExample} from \"@observablehq/plot-scales-cheatsheet\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 89,
+            "value": "import {introParagraph as transformsIntro, transformsExample, data as tData} from \"@observablehq/plot-transforms-cheatsheet\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 99,
+            "value": "import {introParagraph as layoutsIntro, layoutsExample} from \"@observablehq/plot-layouts-cheatsheet\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 125,
+            "value": "import {introParagraph as colorsIntro, colorsExample, scheme, quantScaleTypes, data as tempData} from \"@observablehq/plot-cheatsheets-colors\"",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 394,
+            "value": "### File attachments",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 426,
+            "value": "### Helper functions",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 430,
+            "value": "evalCodeStr = (str) => {\n  const func = new Function(\"data\", \"Plot\", \"width\",  \"d3\", \"data\", \"tempData\", \"tData\", `return ${str}`)\n  return func(data, Plot, width, d3, data, tempData, tData);\n} ",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 399,
+            "value": "### Settings",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 445,
+            "value": "// Settings to create the colors plot\nquantitative = ({\n  controls: [\n    { type: \"text\", value: \"// Temp. over time\\nPlot.plot({\" },\n    { type: \"text\", value: \"marks:[Plot.dot(tempData, {\", indent: 1 },\n    { param: \"fill\", value: \"air_temp\" },\n    { type: \"text\", value: \"})],\", indent: 1 },\n    { type: \"text\", value: \"color: {\", indent: 1 },\n    { param: \"scheme\", type: \"select\", value: \"scheme\", options: scheme },\n    { param: \"type\", type: \"select\", options: quantScaleTypes },\n    { type: \"text\", value: \"// Clamp the domain\", indent: 2 },\n    { param: \"domain\", type: \"textInput\", value: `[0, 30]` },\n    { type: \"text\", value: `// Restrict output range`, indent: 2 },\n    { param: \"range\", type: \"textInput\", value: `[0, 1]` },\n    { type: \"text\", value: \"}})\" }\n  ],\n  plot: (config) => `Plot.plot({\n  marks: [Plot.dot(tempData, { x: \"date\", y: \"air_temp\", fill: \"air_temp\" })],\n  color: {\n    type: \"${config.type}\",\n    scheme: \"${config.scheme}\", \n    legend: true${config.domain ? `,\\n\\t\\tdomain: ${config.domain}` : ''}${config.range ? `,\\n\\t\\trange: ${config.range}` : \"\"}\n  },\n  width: ${plotWidth}\n})`\n})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 455,
+            "value": "// Settings to create the transforms historgram\nhistogram = ({\n  controls: [\n    { type: \"text\", value: \"// Create a histogram\" },\n    { type: \"text\", value: \"Plot.rectY(tData,\", indent: 0 },\n    { type: \"text\", value: \"Plot.binX({\", indent: 1 },\n\n    {\n      param: \"reducer\",\n      label: \"y\",\n      value: \"count\"\n    },\n    { type: \"text\", value: \"},{\", indent: 1 },\n    { param: \"x\", value: \"price_in_usd\" },\n    {\n      param: \"fill\",\n      options: [\"blue\", \"brand\", \"red\"],\n      type: \"select\"\n    },\n    {\n      param: \"thresholds\",\n      type: \"select\",\n      options: [5, 10, 50]\n    },\n    {\n      param: \"fillOpacity\",\n      type: \"range\",\n      min: 0.1,\n      max: 1,\n      value: 0.5,\n      step: 0.05\n    },\n    { type: \"text\", value: \"}\", indent: 1 },\n    { type: \"text\", value: \"})\" }\n  ],\n\n  // Function that returns a string of the plot code: input is key/value pairs of the controls\n  plot: (config) => `Plot.plot({\n  marks: [\n    Plot.rectY(\n      tData,\n      Plot.binX(\n        { y: \"${config.reducer}\" },\n        {\n          x: \"price_in_usd\",          \n          fill: \"${config.fill}\",\n          fillOpacity: ${config.fillOpacity},\n          thresholds: ${config.thresholds}\n        }\n      )\n    )\n  ],\n  marginLeft: 100,\n  width: ${plotWidth},\n  height: 300\n})`\n})",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        },
+        {
+            "id": 518,
+            "value": "### Styles",
+            "pinned": false,
+            "mode": "md",
+            "data": null,
+            "name": ""
+        },
+        {
+            "id": 522,
+            "value": "inputStyles",
+            "pinned": true,
+            "mode": "js",
+            "data": null,
+            "name": null
+        }
+    ],
+    "resolutions": [
+        {
+            "type": "notebook",
+            "specifier": "@mbostock/hello-pdf-js",
+            "value": "220776fe160c3734@84"
+        },
+        {
+            "type": "notebook",
+            "specifier": "@nebrius/indented-toc",
+            "value": "9bed702f80a3797e@402"
+        }
+    ]
+}
